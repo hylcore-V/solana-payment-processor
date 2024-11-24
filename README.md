@@ -1,5 +1,6 @@
 # Sol Payments
 
+
 SolPayments is a smart contract program build for the [Solana blockchain](https://solana.com/) that allows merchants to receive crypto-currency payments at their online shops.
 
 More information: [SolPayments Official Website](https://solpayments.com/)
